@@ -1,16 +1,20 @@
-## Hi there 👋
+<div align="center">
+  <h1 align="center">Hola, soy Santiago 👋</h1>
+</div>
 
-<!--
-**Santi-Ag/Santi-Ag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="imagenes/portada.png" alt="Foto de Santiago" width="100%">
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Encuéntrame en:
+[![GitHub followers](https://img.shields.io/github/followers/tu_usuario?label=Seguidores&style=social)](https://github.com/tu_usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/santiago-agreda-esapaña-875010131/)
+
+---
+
+### 📊 Sobre mí
+- 👨‍🔬 Ingeniero Biológico con interés en bioinformática y análisis de datos.  
+- 💻 Experiencia con R, Python y visualización de datos.  
+- 📈 Me gusta transformar datos en información clara y visual.  
