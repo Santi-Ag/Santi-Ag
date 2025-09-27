@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="imagenes/portada.png" alt="Foto de Santiago" width="100%">
+  <img src="imagenes/portada2.png" alt="Foto de Santiago" width="100%">
 </div>
 
 ---
