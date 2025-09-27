@@ -14,7 +14,7 @@
 
 ---
 
-### 📊 Sobre mí
-- 👨‍🔬 Ingeniero Biológico con interés en bioinformática y análisis de datos.  
-- 💻 Experiencia con R, Python y visualización de datos.  
-- 📈 Me gusta transformar datos en información clara y visual.  
+### 📊 About me
+- 👨‍🔬 Biological Engineer with an interest in bioinformatics and data analysis.
+- 💻 Experience with R, Python, and data visualization.
+- 📈 I enjoy transforming data into clear, visual information.
