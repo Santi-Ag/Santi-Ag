@@ -9,7 +9,7 @@
 ---
 
 ### 🌐 Encuéntrame en:
-[![GitHub followers](https://img.shields.io/github/followers/tu_usuario?label=Seguidores&style=social)](https://github.com/tu_usuario)
+[![GitHub followers](https://img.shields.io/github/followers/Santi-Ag?label=Seguidores&style=social)](https://github.com/Santi-Ag)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/santiago-agreda-esapaña-875010131/)
 
 ---
